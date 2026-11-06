@@ -1,0 +1,6 @@
+{
+  "name": "Anima AI",
+  "description": "Emotional AI companion with expressive animated gaze tracking, voice mic interaction, offline deep search, and creative image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
